@@ -1,0 +1,14 @@
+.addedContainer {
+  margin: 10px auto;
+  padding: 15px;
+  width: 100%;
+}
+.addedColor {
+  width: 100px;
+  height: 100px;
+  float: left;
+  opacity: 1;
+}
+/* .addedColor.selected {
+  opacity: 0.9;
+} */
